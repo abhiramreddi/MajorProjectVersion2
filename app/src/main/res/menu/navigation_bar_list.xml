@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/publishAds"
+        android:icon="@drawable/ic_baseline_publish_24"
+        android:title="@string/publish" />
+    <item
+        android:id="@+id/viewAds"
+        android:icon="@drawable/ic_baseline_view_24"
+        android:title="@string/view" />
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_baseline_profile_24"
+        />
+
+
+</menu>
