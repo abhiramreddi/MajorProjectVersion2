@@ -12,5 +12,19 @@
     <string name="profile">Profile</string>
     <string name="view">View</string>
     <string name="publish">Publish</string>
+    <string name="majorprojectversion1">MajorProjectV1\nRegister</string>
+    <string name="phone">Phone</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="register_here">register here</string>
+    <string name="upload">upload</string>
+    <string name="see_all">view all</string>
+    <string name="enter_title_of_ad">Enter the title of Ad</string>
+    <string name="option_4">Option 4</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_1">Option 1</string>
+    <string name="enter_the_question">Enter the question</string>
+    <string name="home">Home</string>
+    <string name="Ads">Ads</string>
 
 </resources>

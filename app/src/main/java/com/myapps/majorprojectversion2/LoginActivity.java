@@ -34,6 +34,8 @@ public class LoginActivity extends AppCompatActivity {
 
 
 
+
+
         email = findViewById(R.id.etEmail);
         password = findViewById(R.id.etPassword);
         registerHere = findViewById(R.id.textViewRegisterHere);
